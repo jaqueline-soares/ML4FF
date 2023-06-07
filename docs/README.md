@@ -1,18 +1,18 @@
 # ML4FF
 
-This repo contains the dataset and codes used in the paper “ML4FF: a benchmark for flash flood forecasting” by Jaqueline A. J. P. Soares, Luan C. S. M. Ozelim,Luiz Bacelar, Dimas B. Ribeiro, Stephan Stephany and Leonardo B. L. Santos.
+This repo contains the dataset and codes used in the paper “ML4FF: a benchmark for flash flood forecasting” by Jaqueline A. J. P. Soares, Luan C. S. M. Ozelim, Luiz Bacelar, Dimas B. Ribeiro, Stephan Stephany and Leonardo B. L. Santos.
 
 # Project tree
 
- * [ML4FF.py](/../../ML4FF.py)
- * [Summary.xlsx](/../../Summary.xlsx)
- * [Summary_Perf.xlsx](/../../Summary_Perf.xlsx)
- * [data](/../../data)
- * [docs](/../../docs)
- * [Models](/../../Models)
- * [figs](/../../figs)
- * [LICENSE](/../../LICENSE)
- * [README.md](/../../docs/README.md)
+ * [ML4FF.py](/../../blob/main/ML4FF.py)
+ * [Summary.xlsx](/../../blob/main/Summary.xlsx)
+ * [Summary_Perf.xlsx](/../../blob/main/Summary_Perf.xlsx)
+ * [data](/../../tree/main/data)
+ * [docs](/../../tree/main/docs)
+ * [Models](/../../tree/main/Models)
+ * [figs](/../../tree/main/figs)
+ * [LICENSE](/../../blob/main/LICENSE)
+ * [README.md](/../../blob/main/docs/README.md)
 
 The ML4FF.py file contains the Python code developed to implement the ML4FF benchmark.
 
