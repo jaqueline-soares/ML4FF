@@ -1,6 +1,6 @@
 # ML4FF
 
-This repo contains the dataset and codes used in the paper “ML4FF: a benchmark for flash flood forecasting” by Jaqueline A. J. P. Soares, Luan C. S. M. Ozelim, Luiz Bacelar, Dimas B. Ribeiro, Stephan Stephany and Leonardo B. L. Santos.
+This repo contains the dataset and codes used in the paper “ML4FF: a benchmark for flash flood forecasting using machine learning models” by Jaqueline A. J. P. Soares, Luan C. S. M. Ozelim, Luiz Bacelar, Dimas B. Ribeiro, Stephan Stephany and Leonardo B. L. Santos.
 
 # Project tree
 
